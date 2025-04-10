@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\adminloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\adminloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\updateadminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\updateadminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\getadminresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\getadminresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\misc\\adminmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\misc\\adminmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\contexts\\cozyhavenstayhotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\contexts\\cozyhavenstayhotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\createhotelresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\createhotelresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\createadminresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\createadminresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\createadminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\createadminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\createguestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\createguestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\dtos\\updateguestrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\dtos\\updateguestrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\starrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\starrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayhotelsolution\\cozyhavenstayhotelapplication\\models\\hotelowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757564EA-1401-4861-BA39-773288F38847}|CozyHavenStayHotelApplication\\CozyHavenStayHotelApplication.csproj|solutionrelative:cozyhavenstayhotelapplication\\models\\hotelowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\AdminLoginResponse.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\AdminLoginResponse.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\AdminLoginResponse.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\AdminLoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:52:52.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Services\\AdminService.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Services\\AdminService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwHUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:17:00.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Services\\GuestService.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Services\\GuestService.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Services\\GuestService.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Services\\GuestService.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:32:18.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\AdminRequest.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\AdminRequest.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\AdminRequest.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\AdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:25:18.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateAdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateAdminRequest.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateAdminRequest.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateAdminRequest.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateAdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:17:59.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAdminResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\GetAdminResponse.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\GetAdminResponse.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\GetAdminResponse.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\GetAdminResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:18:25.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Admin.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\Admin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:07:49.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminMapper.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Misc\\AdminMapper.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Misc\\AdminMapper.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Misc\\AdminMapper.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Misc\\AdminMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:40:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:57:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:16:01.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:22:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:17:29.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CozyHavenStayHotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Contexts\\CozyHavenStayHotelContext.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Contexts\\CozyHavenStayHotelContext.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Contexts\\CozyHavenStayHotelContext.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Contexts\\CozyHavenStayHotelContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:09:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Program.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:18:43.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateHotelResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateHotelResponse.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateHotelResponse.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateHotelResponse.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateHotelResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:19:15.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Hotel.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\Hotel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:00:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateAdminResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminResponse.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminResponse.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminResponse.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:26:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateAdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminRequest.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminRequest.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminRequest.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateAdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:24:58.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateGuestResponse.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateGuestResponse.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateGuestResponse.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\CreateGuestResponse.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\CreateGuestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:31:17.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:50:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateGuestRequest.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateGuestRequest.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateGuestRequest.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateGuestRequest.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\DTOs\\UpdateGuestRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:47:35.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Guest.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\Guest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:54:02.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Review.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:07:34.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Room.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\Room.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:06:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StarRating.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\StarRating.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\StarRating.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\StarRating.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\StarRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:06:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\Location.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:05:34.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HotelOwner.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\HotelOwner.cs",
+              "RelativeDocumentMoniker": "CozyHavenStayHotelApplication\\Models\\HotelOwner.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayHotelSolution\\CozyHavenStayHotelApplication\\Models\\HotelOwner.cs",
+              "RelativeToolTip": "CozyHavenStayHotelApplication\\Models\\HotelOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:55:35.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@CozyHavenStayHotelApplication_HostAddress = http://localhost:5212
+
+GET {{CozyHavenStayHotelApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
